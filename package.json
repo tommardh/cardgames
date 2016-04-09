@@ -1,0 +1,27 @@
+{
+  "name": "cardgames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cardgame.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "approvals": "^1.2.0",
+    "sinon": "^1.17.3"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommardh/cardgames.git"
+  },
+  "author": "Tom Mårdh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommardh/cardgames/issues"
+  },
+  "homepage": "https://github.com/tommardh/cardgames#readme"
+}

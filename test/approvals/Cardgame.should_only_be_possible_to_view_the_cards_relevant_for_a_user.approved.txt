@@ -1,0 +1,10 @@
+Game: Vänd-8
+Players: 2
+Viktoria
+6 hidden card(s)
+Kalle
+S11 H11 S12 H12 S13 H13
+Pile
+39 hidden card(s)
+Open Pile
+R10 and 0 hidden card(s)
