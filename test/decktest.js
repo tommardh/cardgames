@@ -47,6 +47,14 @@ describe('Deck', function () {
     this.verify(data);  // or this.verifyAsJSON(data)
   });
 
+  it('should be possible to get the deck as JSON', function () {
+    var deck = new Deck();
+    var cards = ["S4", "S3", "S2","S1"];
+    deck.addCards(cards);
+    //var data = deck.;
+    this.verifyAsJSON(deck);
+  });
+
   it('should be possible to count the cards in a deck', function () {
     var deck = new Deck();
     var cards = ["S4", "S3", "S2", "S1"];
